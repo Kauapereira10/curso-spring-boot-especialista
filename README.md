@@ -1,0 +1,2 @@
+# curso-spring-boot-especialista
+Repositório criado para documentar minha jornada de aprendizado em Spring Boot, registrando projetos, exercícios, anotações e boas práticas estudadas durante um curso completo focado no desenvolvimento profissional com Java e Spring. O objetivo é consolidar conhecimentos em APIs REST, JPA, Spring Security, Docker, AWS, testes, OAuth2, documentação com Swagger e outras tecnologias essenciais para o mercado.
